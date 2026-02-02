@@ -1,0 +1,19 @@
+<<<<<<< Updated upstream
+
+
+
+
+
+
+
+
+story 20
+x=50
+=======
+first
+
+story 10
+x=10
+>>>>>>> Stashed changes
+y=5
+z=x+y

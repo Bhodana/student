@@ -1,0 +1,13 @@
+hi I am Bhodana
+<<<<<<< Updated upstream
+story 6
+x=4
+y=5
+=======
+
+
+story 1
+x=2
+y=3
+>>>>>>> Stashed changes
+z=x+y
